@@ -15,8 +15,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Gorgoll&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gorgoll&icon=7&color=6)](https://visitcount.itsvg.in)
-
 <img src="https://wakatime.com/badge/user/02f2d9d7-60d2-4bb1-ac76-4b5a40e96c60.svg?style=for-the-badge" align="center"/>
 <br />
 </div>
